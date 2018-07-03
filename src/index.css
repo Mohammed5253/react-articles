@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+body>div, body > div > div,
+body > div > div > div.login-form{
+  height: 100%
+}
+.articleWidth{
+  width: 60% !important
+}
+
+.userautoscrptedit
+{
+    min-height: 90px;
+    padding: 18px 3px;
+    border-radius: 10px;
+    width: 92%;
+    border: 0;
+    color: #000;
+   
+
+}
